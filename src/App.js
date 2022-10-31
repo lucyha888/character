@@ -42,7 +42,7 @@ function App() {
 	return (
 		<div className="App">
 			<div className="title">CHARACTER</div>
-			<div className="subtitle">🛠️CUSTOMIZATION🛠️</div>
+			<div className="subtitle">🛠️CUSTOMIZATION BY LUCYHA🛠️</div>
 			<div className="divider"></div>
 			<div className="avatar-group gap-30">
 				<div>
